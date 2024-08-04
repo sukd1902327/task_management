@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154545008629",
+    "project_id": "vita-4ec56",
+    "storage_bucket": "vita-4ec56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154545008629:android:4f59f1d308d14f932dbabc",
+        "android_client_info": {
+          "package_name": "com.example.vita_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO5i-jLQ2S3-G8k06SGA4fCp9Kz3-01Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
